@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PemaSherpa", "PemaSherpa\PemaSherpa.csproj", "{B5D8B2A8-936C-41FE-8DB8-DAC6E021CFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODELS", "MODELS\MODELS.csproj", "{C4457533-5EFF-4EC8-A3E0-E974B33A90C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C2ECCF9F-A739-4E3F-83F8-3F48F19689E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D8B2A8-936C-41FE-8DB8-DAC6E021CFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D8B2A8-936C-41FE-8DB8-DAC6E021CFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D8B2A8-936C-41FE-8DB8-DAC6E021CFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D8B2A8-936C-41FE-8DB8-DAC6E021CFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4457533-5EFF-4EC8-A3E0-E974B33A90C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4457533-5EFF-4EC8-A3E0-E974B33A90C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4457533-5EFF-4EC8-A3E0-E974B33A90C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4457533-5EFF-4EC8-A3E0-E974B33A90C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2ECCF9F-A739-4E3F-83F8-3F48F19689E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2ECCF9F-A739-4E3F-83F8-3F48F19689E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2ECCF9F-A739-4E3F-83F8-3F48F19689E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2ECCF9F-A739-4E3F-83F8-3F48F19689E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62EDFF4D-08D0-4B11-AE68-22560C09952A}
+	EndGlobalSection
+EndGlobal
